@@ -1,4 +1,4 @@
-# elasic-modeller
+# elastic-modeller
 
 The `elastic-modeller` module provides a simple document modelling interface for Elasticsearch.
 
