@@ -1,5 +1,7 @@
 # elastic-modeller
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/elastic-modeller.svg)](https://greenkeeper.io/)
+
 The `elastic-modeller` module provides a simple document modelling interface for Elasticsearch.
 
 ## Install
